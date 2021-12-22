@@ -1,0 +1,14 @@
+Enter number of of student
+20
+enter  number of member
+20
+enter  number of entry
+20
+enter number of aer
+10
+enter number of supervisor
+10
+Enter chocolate number:
+16
+Total number of Chocolate: 18
+Total number of Donut: 60
