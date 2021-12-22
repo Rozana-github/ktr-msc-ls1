@@ -1,0 +1,34 @@
+4. Chapter Four: Passage to the Other World
+
+Congratulations, you became AER in the second year of Epitech Lille! your first job optimizing
+rooms and the activities of the different student classes.
+
+Here are the timetables for the 3 promotions :
+tek1 (the first years ...) 
+tek2 (the secondyears …)
+tek3 (we'll let you guess ...) 
+
+for this Monday morning, the promotions cannot be in the same time in the same room, and the goal is:
+
+• Minimize the number of room changes
+• Move students to the rooms closest to their previous ones
+
+>>> How will you position the rooms on the activities to minimize room changes students ? Explain to us how you proceeded?
+
+
+Monday Tek1:
+9h00: KickOff Pool C (100 students) (duration 1h)
+10h: individual point with the pedago (1 student every 10 minutes) (duration 2h)
+11am: Graphic Bootstrap (40 students) (duration 1h)
+
+
+Monday Tek2:
+9h00: Kickoff Zia (50 students) (duration 2h)
+11h: individual point with the pedago (1 student every 10 minutes) (duration 2h)
+11:30 am: Kickoff Arcade (35 students) (duration 1 hour)
+
+
+Monday Tek3:
+9h00: Kickoff Cyrptography Project (40 students) (duration 1h)
+10h: individual point with the pedago (1 student every 10 minutes) (duration 2h)
+11 a.m .: Update on the year with the pedago (100 students) (duration 1 hour
