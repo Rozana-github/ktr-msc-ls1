@@ -1,0 +1,10 @@
+**** To know your class schedule  enter 1 for 1st year , 2 for second year and 3 for 3rd year ***
+3
+You are Tek3 in third year your classes are as follows : 
+11h-12h :  Kickoff Cryptography Project Room no. 1
+12hh- 13h : Update on the year with the pedago at Room 1
+11h- 13h :  Individual point with the pedago 1 student every 10 minutes at room 1
+11h - 13h : If you  do not have presentation then you can use   the pc pool can be at Room 3
+You are in year 3
+
+// example selection for the 3rd year.
